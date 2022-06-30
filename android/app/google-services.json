@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275313355776",
+    "project_id": "eshop-22518",
+    "storage_bucket": "eshop-22518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275313355776:android:c3531f019e8701d25ebce5",
+        "android_client_info": {
+          "package_name": "com.dhiraj.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275313355776-vtv5fksdi23n1oe0v42uubcp4ff6d2pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnvpxpHfM7axYUwTBJtb9QW96XJ0HGJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275313355776-vtv5fksdi23n1oe0v42uubcp4ff6d2pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
